@@ -1,27 +1,55 @@
-👋 Hey there
+<div align="center">
 
-Welcome to my humble code vault — also known as “the place where I forget what I’ve already done and then come back to copy from myself”.
+# Hi, I'm @yirasso 👋
 
-🛠️ Tech I use to pretend I know what I’m doing:
+Welcome to my little corner of GitHub.
 
-JavaScript (the espresso shot of coding ☕)
+</div>
 
-Python (because sometimes I like my code to feel smarter than me)
+## About me
 
-React (components everywhere, sanity optional)
+- I write code, break code, and sometimes even fix it.
+- Does refactoring count as productive procrastination? I say yes.
+- If it works, don't touch it. If it doesn't... it's probably the cache.
 
-📂 What you’ll probably find here:
+## Tech I use
 
-Half-finished projects (is it a feature or a bug? …yes)
+- JavaScript (the espresso of code ☕)
+- Python (for when I want the code to look smarter than me)
+- React (components everywhere; sanity optional)
 
-Things that only work on my machine
+## What I'm up to
 
-Random experiments inspired by StackOverflow at 2AM
+- Small projects and experiments to learn new things
+- Leveling up testing habits and automation
+- Public notes so future-me remembers
 
-🌱 About me
+## Stats
 
-I write code, I break code, and sometimes I even fix code.
+<div align="center">
 
-Refactoring? Only if procrastination counts as a design pattern.
+<!-- Change the username if needed -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yirasso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @yirasso" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirasso&layout=compact&theme=transparent&hide_border=true" alt="Most used languages for @yirasso" />
 
-If it works, don’t touch it. If it doesn’t work… also don’t touch it (blame the cache).
+<!-- Streak (optional) -->
+<img height="165" src="https://streak-stats.demolab.com/?user=yirasso&theme=transparent&hide_border=true" alt="GitHub streak for @yirasso" />
+
+</div>
+
+## How to reach me
+
+- GitHub: @yirasso
+- LinkedIn: NULL
+- Email: tomas.v.girao@gmail.com
+
+<!--
+Quick tips:
+- Replace the placeholders above with your real contacts.
+- Pin your favorite repositories on your profile to highlight them.
+- Keep this README short—think of it as a technical business card.
+-->
+
+---
+
+PS: Yes, some projects only work on my machine. We're working on it 😅
