@@ -4,7 +4,7 @@
 </h1>
 
 - 🎓 Computer Engineering student @ ISCTE-IUL + @ 42School
-- 👨‍💻 Learning new tech and improving my skills.
+- 👨‍💻 Learning new tech and improving my skills
 - 💬 Vibe code = Beta (me)
 - 🌱 Right now i’m diving deeper into _[JavaScript](https://www.coursera.org/learn/programming-with-javascript)_ and _[ReactNative](https://www.coursera.org/learn/react-native-course)_
 
