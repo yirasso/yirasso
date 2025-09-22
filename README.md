@@ -1,50 +1,61 @@
+<h3 align="center">
+  Hi, I'm @Yirasso
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+</p>
+
+---
+
+- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
+- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ 
+### 📊 Most Used Language
+
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+
+---
+
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
-
-# Hi, I'm Tomas Girao (aka “yirasso”) 👋
-
-I build small things on the web, break them on purpose, and learn in public.
-
+<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 </div>
 
-## About me
+---
 
-- Self-taught developer who enjoys clean UIs and pragmatic backends
-- JavaScript and Python fan; React when it fits, plain HTML/CSS/JS when it doesn't
-- Big believer in small iterations, good naming, and deleting code
+<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
-## Skills
-
-- Languages: JavaScript, Python
-- Frontend: React, HTML, CSS
-- Tools: Git/GitHub, VS Code, Linux
-
-<!-- Add more when you like: Node.js, Express, Docker, PostgreSQL, etc. -->
-
-## What I'm working on
-
-- Tiny experiments and learning projects
-- Improving testing habits and simple automation
-- Notes and snippets to help future‑me (and maybe you)
-
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yirasso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @yirasso" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirasso&layout=compact&theme=transparent&hide_border=true" alt="Most used languages for @yirasso" />
-<img height="165" src="https://streak-stats.demolab.com/?user=yirasso&theme=transparent&hide_border=true" alt="GitHub streak for @yirasso" />
-
-</div>
-
-## Let's connect
-
-- GitHub: @yirasso
-- LinkedIn: add your link here
-- Email: add your contact email here
-
-<!-- Tips:
-- Replace the placeholders above with your actual contacts.
-- Pin a few favorite repositories on your profile.
-- Keep this README short—think "technical business card". 
--->
+------
