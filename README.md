@@ -1,55 +1,50 @@
+
 <div align="center">
 
-# Hi, I'm @yirasso 👋
+# Hi, I'm Tomas Girao (aka “yirasso”) 👋
 
-Welcome to my little corner of GitHub.
+I build small things on the web, break them on purpose, and learn in public.
 
 </div>
 
 ## About me
 
-- I write code, break code, and sometimes even fix it.
-- Does refactoring count as productive procrastination? I say yes.
-- If it works, don't touch it. If it doesn't... it's probably the cache.
+- Self-taught developer who enjoys clean UIs and pragmatic backends
+- JavaScript and Python fan; React when it fits, plain HTML/CSS/JS when it doesn't
+- Big believer in small iterations, good naming, and deleting code
 
-## Tech I use
+## Skills
 
-- JavaScript (the espresso of code ☕)
-- Python (for when I want the code to look smarter than me)
-- React (components everywhere; sanity optional)
+- Languages: JavaScript, Python
+- Frontend: React, HTML, CSS
+- Tools: Git/GitHub, VS Code, Linux
 
-## What I'm up to
+<!-- Add more when you like: Node.js, Express, Docker, PostgreSQL, etc. -->
 
-- Small projects and experiments to learn new things
-- Leveling up testing habits and automation
-- Public notes so future-me remembers
+## What I'm working on
+
+- Tiny experiments and learning projects
+- Improving testing habits and simple automation
+- Notes and snippets to help future‑me (and maybe you)
 
 ## Stats
 
 <div align="center">
 
-<!-- Change the username if needed -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=yirasso&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @yirasso" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirasso&layout=compact&theme=transparent&hide_border=true" alt="Most used languages for @yirasso" />
-
-<!-- Streak (optional) -->
 <img height="165" src="https://streak-stats.demolab.com/?user=yirasso&theme=transparent&hide_border=true" alt="GitHub streak for @yirasso" />
 
 </div>
 
-## How to reach me
+## Let's connect
 
 - GitHub: @yirasso
-- LinkedIn: NULL
-- Email: tomas.v.girao@gmail.com
+- LinkedIn: add your link here
+- Email: add your contact email here
 
-<!--
-Quick tips:
-- Replace the placeholders above with your real contacts.
-- Pin your favorite repositories on your profile to highlight them.
-- Keep this README short—think of it as a technical business card.
+<!-- Tips:
+- Replace the placeholders above with your actual contacts.
+- Pin a few favorite repositories on your profile.
+- Keep this README short—think "technical business card". 
 -->
-
----
-
-PS: Yes, some projects only work on my machine. We're working on it 😅
