@@ -5,7 +5,7 @@
 
 - 🎓 Computer Engineering student @ ISCTE-IUL + @ 42School
 - 👨‍💻 Learning new tech and improving my skills.
-- 💬 Vibe code >:( 
+- 💬 Vibe code = Beta (me)
 - 🌱 Right now i’m diving deeper into _[JavaScript](https://www.coursera.org/learn/programming-with-javascript)_ and _[ReactNative](https://www.coursera.org/learn/react-native-course)_
 
 ## 🧰 &nbsp;Tech Stack
@@ -19,8 +19,8 @@
 ## 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tomas.v.girao@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tomas-girao/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/tomasgirao_">
   <img alt="Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
