@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="banner" width="100%">
+<img src="banner.jpg" alt="Michael Scott from The Office, in sunglasses, gesturing at his desk" width="100%">
 
 <h3 align="center">Hey, I'm @Tomás</h3>
 
