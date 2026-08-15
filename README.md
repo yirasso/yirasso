@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+<img src="banner.jpg" alt="banner" width="100%">
 
 <h3 align="center">Hey, I'm @Tomás</h3>
 
